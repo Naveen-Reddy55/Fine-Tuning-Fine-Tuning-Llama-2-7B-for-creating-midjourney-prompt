@@ -1,6 +1,3 @@
----
-library_name: peft
----
 
 # Fine-tuning Llama-7B Model
 
