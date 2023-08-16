@@ -7,7 +7,12 @@ library_name: peft
 This repository contains the code and data for fine-tuning a Llama-7B model on a dataset containing user inputs and mid-journey prompts as responses.
 
 ## TESTIMONIALS
-<img src="https://github.com/Naveen-Reddy55/Fine-Tuning-Fine-Tuning-Llama-2-7B-for-creating-midjourney-prompt/assets/71924097/0ac7607f-b097-420e-a3a7-5fbd015bafc6" alt="1" width="200"/>
+<img src="https://github.com/Naveen-Reddy55/Fine-Tuning-Fine-Tuning-Llama-2-7B-for-creating-midjourney-prompt/assets/71924097/0ac7607f-b097-420e-a3a7-5fbd015bafc6" alt="1" width="300"/>
+
+<img src="https://github.com/Naveen-Reddy55/Fine-Tuning-Fine-Tuning-Llama-2-7B-for-creating-midjourney-prompt/assets/71924097/3b232be3-842b-4430-ab20-a510c53d582e" alt="3" width="300"/>
+
+<img src="https://github.com/Naveen-Reddy55/Fine-Tuning-Fine-Tuning-Llama-2-7B-for-creating-midjourney-prompt/assets/71924097/fd201b68-9e7f-43bf-a4dc-edd4ffec91fd" alt="2" width="300"/>
+
 ## Dataset
 
 The dataset used for fine-tuning the model is stored in a variable named `fine_tuning_data`. It contains three columns: `User`, `Prompt`, and `Text`.
