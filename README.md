@@ -7,7 +7,7 @@ library_name: peft
 This repository contains the code and data for fine-tuning a Llama-7B model on a dataset containing user inputs and mid-journey prompts as responses.
 
 ## TESTIMONIALS
-
+![1](https://github.com/Naveen-Reddy55/Fine-Tuning-Fine-Tuning-Llama-2-7B-for-creating-midjourney-prompt/assets/71924097/0ac7607f-b097-420e-a3a7-5fbd015bafc6)
 
 ## Dataset
 
