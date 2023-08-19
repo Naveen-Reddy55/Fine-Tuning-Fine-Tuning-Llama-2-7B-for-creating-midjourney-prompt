@@ -7,6 +7,8 @@ This repository contains the code and data for fine-tuning a Llama-7B model on a
 
 #### User Input: midjourney prompt for a retro-futuristic spaceship with organic shapes and bright colors
 
+<img src="https://github.com/Naveen-Reddy55/Fine-Tuning-Fine-Tuning-Llama-2-7B-for-creating-midjourney-prompt/assets/71924097/87759ce9-8814-49db-8603-eae35329aa4c" alt="1" width="300"/>
+
 <img src="https://github.com/Naveen-Reddy55/Fine-Tuning-Fine-Tuning-Llama-2-7B-for-creating-midjourney-prompt/assets/71924097/0ac7607f-b097-420e-a3a7-5fbd015bafc6" alt="1" width="300"/>
 
 <img src="https://github.com/Naveen-Reddy55/Fine-Tuning-Fine-Tuning-Llama-2-7B-for-creating-midjourney-prompt/assets/71924097/3b232be3-842b-4430-ab20-a510c53d582e" alt="3" height="300" width="400"/>
